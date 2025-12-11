@@ -4,7 +4,7 @@ img {
 body
 {
     text-align : center;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: 'Arial';
     background: orange;
     color: blue;
 }
